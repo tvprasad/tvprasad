@@ -1,4 +1,4 @@
-# 👋 Hi, I'm tvprasad!
+# 👋 Hi, I'm Prasad Tiruveedi (tvprasad)!
 
 Welcome to my GitHub profile! 
 
@@ -13,6 +13,9 @@ Welcome to my GitHub profile!
 
 - Programming Languages: Python, JavaScript and more
 - Tools & Platforms: Git, Docker, Cloud Services
+
+## 🌱 Continuous Learning
+  - AI/ML Platform Development, Agentic AI systems, RAG workflows, Model Context Protocol (MCP)
 
 ## 📊 GitHub Stats
 

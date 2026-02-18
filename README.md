@@ -14,8 +14,20 @@ Welcome to my GitHub profile!
 - Programming Languages: Python, JavaScript and more
 - Tools & Platforms: Git, Docker, Cloud Services
 
-## 🌱 Continuous Learning
-  - AI/ML Platform Development, Agentic AI systems, RAG workflows, Model Context Protocol (MCP)
+## 🚀 Current Focus
+
+- Production-grade agentic AI systems with RAG pipelines
+- Healthcare data platforms and biotech research infrastructure
+- Distributed analytics systems managing multi-TB workloads
+- AI-assisted development workflows (Claude Code, GitHub Copilot)
+
+
+
+## 📚 Continuous Learning
+
+- Certified: Mastering Claude AI: Prompting, APIs, RAG, and Model Context Protocol (MCP)
+- Certified: Claude Code in Action, Introduction to MCP
+- Research: Agentic AI patterns, enterprise AI governance, vector database architectures
 
 ## 📊 GitHub Stats
 
@@ -29,3 +41,5 @@ Welcome to my GitHub profile!
 
 *⭐️ From [tvprasad](https://github.com/tvprasad)*
 Staff / Principal Software Engineer | AI-Enabled Systems | Building Scalable AI-Powered Solutions.
+
+Building systems that scale. Solving problems that matter.

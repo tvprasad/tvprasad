@@ -11,7 +11,7 @@ Welcome to my GitHub profile!
 
 ## 🛠️ Tech Stack
 
-- Programming Languages: Python, JavaScript, Rust, and more
+- Programming Languages: Python, JavaScript and more
 - Tools & Platforms: Git, Docker, Cloud Services
 
 ## 📊 GitHub Stats

@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Prasad Tiruveedi (tvprasad)!
+# 👋 Hi, I'm Prasad Tiruveedi!
 
 Welcome to my GitHub profile! 
 

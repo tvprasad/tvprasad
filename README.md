@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Prasad Tiruveedi! 
-
-Welcome to my GitHub profile! 
+Staff Software Engineer | AI Engineer | Principal Software Engineer AI Enabled Systems
 
 ## 👨‍💻 About Me
 
@@ -21,25 +20,17 @@ Welcome to my GitHub profile!
 - Distributed analytics systems managing multi-TB workloads
 - AI-assisted development workflows (Claude Code, GitHub Copilot)
 
-
-
 ## 📚 Continuous Learning
 
-- **Certified**: Mastering Claude AI: Prompting, APIs, RAG, and Model Context Protocol (MCP)
-- **Certified**: Claude Code in Action, Introduction to MCP
-- **Research**: Agentic AI patterns, enterprise AI governance, vector database architectures
+- **Certified:** Mastering Claude AI: Prompting, APIs, RAG, and Model Context Protocol (MCP)
+- **Certified:** Claude Code in Action, Introduction to MCP
+- **Research:** Agentic AI patterns, enterprise AI governance, vector database architectures
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tvprasad&show_icons=true&theme=radical)
-
-## 📫 Connect with Me
+## 🔗📫 Connect with Me
 
 - GitHub: [@tvprasad](https://github.com/tvprasad)
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/-Prasad) Staff / Principal Software Engineer | AI-Enabled Systems | Building Scalable AI-Powered Solutions.
 
 ---
-
-*⭐️ From [tvprasad](https://github.com/tvprasad)*
-Staff / Principal Software Engineer | AI-Enabled Systems | Building Scalable AI-Powered Solutions.
-
-Building systems that scale. Solving problems that matter.
+*Building systems that scale. Solving problems that matter.*

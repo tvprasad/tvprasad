@@ -25,9 +25,9 @@ Welcome to my GitHub profile!
 
 ## 📚 Continuous Learning
 
-- Certified: Mastering Claude AI: Prompting, APIs, RAG, and Model Context Protocol (MCP)
-- Certified: Claude Code in Action, Introduction to MCP
-- Research: Agentic AI patterns, enterprise AI governance, vector database architectures
+- **Certified**: Mastering Claude AI: Prompting, APIs, RAG, and Model Context Protocol (MCP)
+- **Certified**: Claude Code in Action, Introduction to MCP
+- **Research**: Agentic AI patterns, enterprise AI governance, vector database architectures
 
 ## 📊 GitHub Stats
 

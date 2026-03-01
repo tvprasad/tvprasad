@@ -34,11 +34,11 @@ Deterministic retrieval thresholds • Explicit refusal semantics • Citation v
 
 ---
 
-## Current Learning
+## Certifications
 
-- **Certified:** Mastering Claude AI — Prompting, APIs, RAG, and MCP  
-- **Certified:** Claude Code in Action, Introduction to MCP  
-- **Research:** Agentic AI patterns, enterprise AI governance, vector database architectures
+- **AWS:** [Generative AI & AI Agents with Amazon Bedrock Professional Certificate by Amazon Web Services](https://coursera.org/share/453b892de8ff8b8d2f7a635c4a33ea80) 
+- **Anthropic:** [Mastering Claude AI — Prompting, APIs, RAG, and MCP by Edureka](https://www.coursera.org/account/accomplishments/specialization/LU68C7OCO6RH)  
+- **Anthropic:** Claude Code in Action, Introduction to MCP  
 
 ---
 

@@ -38,7 +38,8 @@ Deterministic retrieval thresholds • Explicit refusal semantics • Citation v
 
 - **AWS:** [Generative AI & AI Agents with Amazon Bedrock Professional Certificate by Amazon Web Services](https://coursera.org/share/453b892de8ff8b8d2f7a635c4a33ea80) 
 - **Anthropic:** [Mastering Claude AI — Prompting, APIs, RAG, and MCP by Edureka](https://www.coursera.org/account/accomplishments/specialization/LU68C7OCO6RH)  
-- **Anthropic:** Claude Code in Action, Introduction to MCP  
+- **Anthropic:** Claude Code in Action, Introduction to MCP
+- **Microsoft:** [Build a computer vision app with Azure Cognitive Services](https://azure.microsoft.com/en-us/free)
 
 ---
 

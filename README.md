@@ -1,6 +1,6 @@
 # Hey, I'm Prasad 👋
 
-**Principal Software Engineer** — 20+ years building distributed systems at scale. Now focused on **production-grade AI infrastructure**.
+20+ years in distributed event-driven microservice systems. Now leading teams and architecting enterprise AI infrastructure.
 
 ---
 

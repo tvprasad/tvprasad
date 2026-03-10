@@ -22,7 +22,7 @@ Deterministic retrieval thresholds • Explicit refusal semantics • Citation v
 | **AI Infrastructure** | RAG pipelines, vector stores, LangGraph, AutoGen, Bedrock, Azure OpenAI |
 | **Distributed Systems** | Event-driven (Kafka, NATS), workflow orchestration, multi-TB analytics |
 | **Backend & APIs** | Python, FastAPI, C#/.NET Core, gRPC, PostgreSQL, TypeScript |
-| **Cloud & Platform** | AWS, Azure, Kubernetes, Terraform, HIPAA-compliant systems |
+| **Cloud & Platform** | AWS, Azure, Kubernetes, Terraform, Ansible, HIPAA-compliant systems |
 
 ---
 

@@ -19,7 +19,7 @@ Deterministic retrieval thresholds • Explicit refusal semantics • Citation v
 
 | Domain | Stack |
 |--------|-------|
-| **AI Infrastructure** | RAG pipelines, vector stores, LangGraph, AutoGen, Bedrock, Azure OpenAI |
+| **AI Infrastructure** | RAG pipelines, vector stores, LangGraph, AutoGen, Bedrock, Azure OpenAI, Microsoft Foundry |
 | **Distributed Systems** | Event-driven (Kafka, NATS), workflow orchestration, multi-TB analytics |
 | **Backend & APIs** | Python, FastAPI, C#/.NET Core, gRPC, PostgreSQL, TypeScript |
 | **Cloud & Platform** | AWS, Azure, Kubernetes, Terraform, Ansible, HIPAA-compliant systems |

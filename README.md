@@ -1,54 +1,79 @@
-# Hey, I'm Prasad 👋
+# Prasad Thiriveedi
 
-20+ years in distributed event-driven microservice systems. Now leading teams and architecting enterprise AI infrastructure.
+I help organizations ship governed AI systems without the compliance
+debt that derails most AI initiatives. Federal or commercial.
 
 ---
 
 ## What I'm Building
 
-**[Meridian](https://github.com/tvprasad/meridian)** — Architecture-first control plane for governed RAG systems.  
-Deterministic retrieval thresholds • Explicit refusal semantics • Citation validation • Structured telemetry
+**[Meridian](https://github.com/tvprasad/meridian)** — Control plane
+for governed RAG systems.
+Deterministic retrieval · Explicit refusal semantics · Citation
+validation · Structured telemetry
+
+Prevents the compliance failures and audit gaps that surface when RAG
+systems are deployed without governance.
 
 > *AI systems fail from architectural ambiguity, not model weakness.*
 
-**Next:** Exposing Meridian as an MCP tool server for agentic orchestration.
+**Next:** Enterprise Agentic RAG — LangGraph multi-agent system with
+Graph API, ADLS Gen2, Azure AI Search, Entra ID auth, and
+GCCH-scoped Terraform. Built to demonstrate the full delivery process
+from intake to ATO-ready release records.
 
 ---
 
-## Technical Depth
+## How I Work
 
-| Domain | Stack |
-|--------|-------|
-| **AI Infrastructure** | RAG pipelines, vector stores, LangGraph, AutoGen, Bedrock, Azure OpenAI, Microsoft Foundry |
-| **Distributed Systems** | Event-driven (Kafka, NATS), workflow orchestration, multi-TB analytics |
-| **Backend & APIs** | Python, FastAPI, C#/.NET Core, gRPC, PostgreSQL, TypeScript |
-| **Cloud & Platform** | AWS, Azure, Kubernetes, Terraform, Ansible, HIPAA-compliant systems |
+Federal AI initiatives stall because there is no delivery process —
+not because the engineering is wrong. Every engagement runs the same
+five-phase loop: intake, parallel execution, integration, delivery,
+and continuous operations. The compliance evidence accumulates as the
+system is built, not after.
+
+| Role mode        | What it produces                                     |
+|------------------|------------------------------------------------------|
+| Business Analyst | Use cases, system boundary doc, acceptance criteria  |
+| ML / AI Engineer | Agent graph, eval harness, prompt versioning         |
+| Data Engineer    | Graph API connectors, ADLS pipeline, AI Search index |
+| DevOps / MLOps   | Terraform (commercial + GCCH), CI/CD, release records|
+| Security         | Threat model, NIST control mapping, SAST gates       |
 
 ---
 
-## Industry Experience
+## Stack
 
-- Healthcare data platforms and biotech research infrastructure  
-- Distributed analytics systems managing multi-TB workloads  
-- Enterprise AI governance and compliance patterns
+| Domain              | Technologies                                          |
+|---------------------|-------------------------------------------------------|
+| AI Orchestration    | LangGraph, Semantic Kernel, AutoGen, MCP tool servers |
+| Retrieval           | Azure AI Search, pgvector, Chroma, RAG pipelines      |
+| LLMs                | Azure OpenAI, Claude (Opus/Sonnet), Ollama (local)    |
+| Data                | Graph API, ADLS Gen2, Azure Data Factory, Kafka, NATS |
+| Backend             | Python, FastAPI, C#/.NET Core, TypeScript, gRPC       |
+| Cloud & Infra       | Azure (GCCH-ready), AWS, Kubernetes, Terraform, AKS   |
+| Compliance          | NIST 800-53, FedRAMP, ATO-ready, active secret clearance |
 
 ---
 
 ## Certifications
 
-- **AWS:** [Generative AI & AI Agents with Amazon Bedrock Professional Certificate by Amazon Web Services](https://coursera.org/share/453b892de8ff8b8d2f7a635c4a33ea80) 
-- **Anthropic:** [Mastering Claude AI — Prompting, APIs, RAG, and MCP by Edureka](https://www.coursera.org/account/accomplishments/specialization/LU68C7OCO6RH)  
-- **Anthropic:** Claude Code in Action, Introduction to MCP
-- **Microsoft:** [Build a computer vision app with Azure Cognitive Services](https://azure.microsoft.com/en-us/free)
+- **Anthropic:** Developing Applications with Claude API
+- **Anthropic:** Mastering Claude AI — Prompting, APIs, RAG, and MCP
+- **Anthropic:** Claude Code in Action · Introduction to MCP
+- **AWS:** Generative AI & AI Agents with Amazon Bedrock
+- **Microsoft:** Azure Cognitive Services
 
 ---
 
 ## Philosophy
 
-Control precedes generation. Observability precedes scale. Governance precedes automation.
+Control precedes generation. Observability precedes scale.
+Governance precedes automation.
 
-I design systems where failure modes are explicit, not discovered in production.
+I design systems where failure modes are explicit,
+not discovered in production.
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/-Prasad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tvprasad)

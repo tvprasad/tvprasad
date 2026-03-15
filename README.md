@@ -62,6 +62,7 @@ system is built, not after.
 - **Anthropic:** Mastering Claude AI — Prompting, APIs, RAG, and MCP
 - **Anthropic:** Claude Code in Action · Introduction to MCP
 - **AWS:** Generative AI & AI Agents with Amazon Bedrock
+- **AWS:** Security Governance at Scale
 - **Microsoft:** Azure Cognitive Services
 
 ---

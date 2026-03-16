@@ -2,6 +2,7 @@
 
 I help organizations ship governed AI systems without the compliance
 debt that derails most AI initiatives. Federal or commercial.
+Now Builds, Deploys, and Governs AI Agents End to End.
 
 ---
 

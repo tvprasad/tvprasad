@@ -18,6 +18,13 @@ systems are deployed without governance.
 
 > *AI systems fail from architectural ambiguity, not model weakness.*
 
+---
+
+**[aiPolaris](https://github.com/tvprasad/aipolaris)** (Feature Product) -
+Federal AI agent orchestration stalls on compliance gaps, audit failures, and capability boundaries that aren't enforced until production. aiPolaris prevents that — from the first commit.
+
+> *AI systems fail from architectural ambiguity, not model weakness.*
+
 **Next:** Enterprise Agentic RAG — LangGraph multi-agent system with
 Graph API, ADLS Gen2, Azure AI Search, Entra ID auth, and
 GCCH-scoped Terraform. Built to demonstrate the full delivery process

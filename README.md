@@ -72,6 +72,9 @@ system is built, not after.
 - **AWS:** Generative AI & AI Agents with Amazon Bedrock
 - **AWS:** Security Governance at Scale
 - **Microsoft:** Azure Cognitive Services
+- **Microsoft:** AI agent fundamentals with Azure AI Foundry 
+
+
   
 ---
 

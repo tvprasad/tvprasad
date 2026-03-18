@@ -34,7 +34,7 @@ from intake to ATO-ready release records.
 
 ## How I Work
 
-Federal AI initiatives stall because there is no delivery process —
+Regulated AI initiatives stall because there is no delivery process —
 not because the engineering is wrong. Every engagement runs the same
 five-phase loop: intake, parallel execution, integration, delivery,
 and continuous operations. The compliance evidence accumulates as the

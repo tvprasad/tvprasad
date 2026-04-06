@@ -1,22 +1,36 @@
 # Prasad Thiriveedi
 
-I help organizations ship governed AI systems without the compliance
-debt that derails most AI initiatives. Federal or commercial.
-Now Builds, Deploys, and Governs AI Agents End to End.
+I help organizations ship governed AI systems without the compliance debt that derails most AI initiatives. Federal or commercial.
+Now builds, deploys, and governs AI agents end to end.
 
 ---
 
 ## What I'm Building
 
-**[Meridian](https://github.com/tvprasad/meridian)** — Control plane
-for governed RAG systems.
-Deterministic retrieval · Explicit refusal semantics · Citation
-validation · Structured telemetry
+**[Meridian](https://github.com/tvprasad/meridian)** — Control plane for governed RAG systems.
+Deterministic retrieval · Explicit refusal semantics · Citation validation · Structured telemetry
 
-Prevents the compliance failures and audit gaps that surface when RAG
-systems are deployed without governance.
+Prevents the compliance failures and audit gaps that surface when RAG systems are deployed without governance.
+
+Validated through real-world agent workflows, including failure diagnosis and controlled execution under production-like conditions.
 
 > *AI systems fail from architectural ambiguity, not model weakness.*
+
+---
+
+**[AgentBond](https://github.com/tvprasad/AgentBond)** — Capability-based enforcement layer for agent delegation and tool access.
+
+Issues scoped, non-redelegable tokens that bind:
+- allowed tools  
+- resource boundaries  
+- time constraints (TTL)  
+
+Every action is validated at execution time:
+signature · scope · policy · audit
+
+Prevents confused-deputy problems and limits blast radius even under orchestrator compromise.
+
+Forms the hard trust boundary between agent intent and system execution.
 
 ---
 
@@ -29,6 +43,10 @@ Regulated AI agent orchestration stalls on compliance gaps, audit failures, and 
 Graph API, ADLS Gen2, Azure AI Search, Entra ID auth, and
 GCCH-scoped Terraform. Built to demonstrate the full delivery process
 from intake to ATO-ready release records.
+
+---
+
+**[Dead Letter Oracle](https://github.com/tvprasad/deadletter)** — MCP-based agent system for diagnosing and safely replaying failed messages with governed execution and audit traceability.
 
 ---
 
@@ -74,17 +92,24 @@ system is built, not after.
 - **Microsoft:** Azure Cognitive Services
 - **Microsoft:** AI agent fundamentals with Azure AI Foundry 
 
-
-  
+ 
 ---
 
 ## Philosophy
 
-Control precedes generation. Observability precedes scale.
+Control precedes generation. 
+Observability precedes scale.
 Governance precedes automation.
 
-I design systems where failure modes are explicit,
-not discovered in production.
+I design systems where failure modes are explicit, validated, and controlled before production.
+
+---
+
+## Representative Scenarios
+- DLQ failure diagnosis and governed replay
+- Schema mismatch detection with validation loops
+- Controlled tool execution via MCP enforcement boundary
+- Agent decision traceability with audit reconstruction
 
 ---
 

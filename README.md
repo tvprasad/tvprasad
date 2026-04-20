@@ -7,7 +7,7 @@ Now builds, deploys, and governs AI agents end to end.
 
 ## What I'm Building
 
-**[Meridian](https://github.com/tvprasad/meridian)** **[Live](https://products.vplsolutions.com)** — Control plane for governed RAG systems.
+**[Meridian](https://github.com/tvprasad/meridian)** **[Live](https://products.vplsolutions.com)** — Control plane for enterprise agent execution in regulated environments.
 Deterministic retrieval · Explicit refusal semantics · Citation validation · Structured telemetry
    
 Prevents the compliance failures and audit gaps that surface when RAG systems are deployed without governance.

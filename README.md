@@ -1,7 +1,6 @@
 # Prasad Thiriveedi
 
-I help organizations ship governed AI systems without the compliance debt that derails most AI initiatives. Federal or commercial.
-Now builds, deploys, and governs AI agents end to end.
+I help organizations ship governed AI systems without the compliance debt that derails most AI initiatives — federal or commercial. I build, deploy, and govern AI agents end to end.
 
 ---
 

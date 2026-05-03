@@ -2,6 +2,8 @@
 
 I help organizations ship governed AI systems without the compliance debt that derails most AI initiatives — federal or commercial. I build, deploy, and govern AI agents end to end.
 
+Building Meridian (governed RAG control plane) and aiPolaris (multi-agent orchestration) at VPL Solutions.
+
 ---
 
 ## What I'm Building

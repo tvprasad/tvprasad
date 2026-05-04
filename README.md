@@ -47,7 +47,7 @@ from intake to ATO-ready release records.
 
 ---
 
-**[Dead Letter Oracle](https://github.com/tvprasad/deadletter)** — MCP-based agent system for diagnosing and safely replaying failed messages with governed execution and audit traceability.
+**[Dead Letter Oracle](https://github.com/tvprasad/dead-letter-oracle)** — MCP-based agent system for diagnosing and safely replaying failed messages with governed execution and audit traceability.
 
 ---
 

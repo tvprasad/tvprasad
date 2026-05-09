@@ -8,6 +8,15 @@ Building Meridian (governed RAG control plane) and aiPolaris (multi-agent orches
 
 ## What I'm Building
 
+**AgentCore PR Agent** | Assessment-built reference workflow for governed AI developer automation. Demonstrates LangGraph orchestration, MCP-style tool execution, reflection/retry recovery, HITL approval gates, guardrails, audit logging, tests, and design documentation.
+
+---
+
+**GovEvidence AI** | Microsoft Agent-a-thon Level 3
+Governed multi-agent compliance workflow built on Azure AI Foundry with grounded retrieval, confidence-gated refusal, Entra-governed identity, auditability, and HITL approval gates.
+
+---
+
 **[Meridian](https://github.com/tvprasad/meridian)** **[Live](https://products.vplsolutions.com)** — Control plane for enterprise agent execution in regulated environments.
 Deterministic retrieval · Explicit refusal semantics · Citation validation · Structured telemetry
    
@@ -83,16 +92,15 @@ system is built, not after.
 
 ---
 
-## Certifications
+## Selected AI Certifications & Programs
 
-- **Anthropic:** Developing Applications with Claude API
-- **Anthropic:** Mastering Claude AI — Prompting, APIs, RAG, and MCP
-- **Anthropic:** Claude Code in Action · Introduction to MCP
+- **Microsoft Agent Master:** Agent-a-thon Level 3
+- **Anthropic:** Claude API & MCP Development
+- **Microsoft:** AI agent fundamentals with Azure AI Foundry &  Cognitive Services
 - **AWS:** Generative AI & AI Agents with Amazon Bedrock
 - **AWS:** Security Governance at Scale
-- **Microsoft:** Azure Cognitive Services
-- **Microsoft:** AI agent fundamentals with Azure AI Foundry 
-
+- **Microsoft:** Azure Cognitive Services 
+- **Databricks:** Platform Architecture
  
 ---
 

@@ -8,7 +8,7 @@ Building Meridian (governed RAG control plane) and aiPolaris (multi-agent orches
 
 ## What I'm Building
 
-**AgentCore PR Agent** | Assessment-built reference workflow for governed AI developer automation. Demonstrates LangGraph orchestration, MCP-style tool execution, reflection/retry recovery, HITL approval gates, guardrails, audit logging, tests, and design documentation.
+**[AgentCore PR Agent](https://github.com/tvprasad/agentcore-pr-agent)** | Assessment-built reference workflow for governed AI developer automation. Demonstrates LangGraph orchestration, MCP-style tool execution, reflection/retry recovery, HITL approval gates, guardrails, audit logging, tests, and design documentation.
 
 ---
 

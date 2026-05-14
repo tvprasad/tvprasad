@@ -1,8 +1,8 @@
 # Prasad Thiriveedi
 
-I help organizations ship governed AI systems without the compliance debt that derails most AI initiatives — federal or commercial. I build, deploy, and govern AI agents end to end.
+I build governed AI, analytics, and data platforms that transform operational, telemetry, and workflow data into production decision-support systems, advanced analytics workflows, and enterprise AI applications.
 
-Building Meridian (governed RAG control plane) and aiPolaris (multi-agent orchestration) at VPL Solutions.
+Building Meridian (governed RAG control plane) and aiPolaris (multi-agent orchestration) with focus on information retrieval, analytics workflows, operational telemetry, and governed AI execution.
 
 ---
 
@@ -18,6 +18,7 @@ Governed multi-agent compliance workflow built on Azure AI Foundry with grounded
 ---
 
 **[Meridian](https://github.com/tvprasad/meridian)** **[Live](https://products.vplsolutions.com)** — Control plane for enterprise agent execution in regulated environments.
+Includes telemetry analytics, retrieval quality monitoring, confidence scoring, structured evaluation workflows, and operational observability for production AI systems.
 Deterministic retrieval · Explicit refusal semantics · Citation validation · Structured telemetry
    
 Prevents the compliance failures and audit gaps that surface when RAG systems are deployed without governance.
@@ -46,7 +47,7 @@ Forms the hard trust boundary between agent intent and system execution.
 
 **[aiPolaris](https://github.com/tvprasad/aipolaris)** (Feature Product) -
 Regulated AI agent orchestration stalls on compliance gaps, audit failures, and capability boundaries that aren't enforced until production. aiPolaris prevents that — from the first commit.
-
+Focused on transforming workflow telemetry, retrieval activity, latency, and quality signals into interpretable analytics and operational insights.
 > *AI systems fail from architectural ambiguity, not model weakness.*
 
 **Next:** Enterprise Agentic RAG — LangGraph multi-agent system with
@@ -62,6 +63,7 @@ from intake to ATO-ready release records.
 
 ## How I Work
 
+I prefer measurable hypotheses, interpretable outputs, structured telemetry, and traceable analytics over opaque automation. 
 Regulated AI initiatives stall because there is no delivery process —
 not because the engineering is wrong. Every engagement runs the same
 five-phase loop: intake, parallel execution, integration, delivery,
@@ -73,6 +75,7 @@ system is built, not after.
 | Business Analyst | Use cases, system boundary doc, acceptance criteria  |
 | ML / AI Engineer | Agent graph, eval harness, prompt versioning         |
 | Data Engineer    | Graph API connectors, ADLS pipeline, AI Search index |
+| Data Scientist / Analytics | Feature engineering, telemetry analytics, retrieval evaluation, operational KPIs |
 | DevOps / MLOps   | Terraform (commercial + GCCH), CI/CD, release records|
 | Security         | Threat model, NIST control mapping, SAST gates       |
 
@@ -85,7 +88,8 @@ system is built, not after.
 | AI Orchestration    | LangGraph, Semantic Kernel, AutoGen, MCP tool servers |
 | Retrieval           | Azure AI Search, pgvector, Chroma, RAG pipelines      |
 | LLMs                | Azure OpenAI, Claude (Opus/Sonnet), Ollama (local)    |
-| Data                | Graph API, ADLS Gen2, Azure Data Factory, Kafka, NATS |
+| Data                | Graph API, ADLS Gen2, Azure Data Factory, Kafka, Databricks, Delta Lake, PySpark, Synapse SQL |
+| Analytics | Python, Pandas, SQL, PySpark, Databricks SQL, Power BI |
 | Backend             | Python, FastAPI, C#/.NET Core, TypeScript, gRPC       |
 | Cloud & Infra       | Azure (GCCH-ready), AWS, Kubernetes, Terraform, AKS   |
 | Compliance          | NIST 800-53, FedRAMP, ATO-ready, active secret clearance |
@@ -99,14 +103,18 @@ system is built, not after.
 - **Microsoft:** AI agent fundamentals with Azure AI Foundry &  Cognitive Services
 - **AWS:** Generative AI & AI Agents with Amazon Bedrock
 - **AWS:** Security Governance at Scale
-- **Microsoft:** Azure Cognitive Services 
+- **Microsoft:** Azure Cognitive Services
+- **Databricks:**  Fundamentals
 - **Databricks:** Platform Architecture
+- **Microsoft:** Fabric / Synapse
+- 
  
 ---
 
 ## Philosophy
 
 Control precedes generation. 
+Data quality, observability, and interpretable analytics are foundational to trustworthy AI systems.
 Observability precedes scale.
 Governance precedes automation.
 
@@ -115,6 +123,7 @@ I design systems where failure modes are explicit, validated, and controlled bef
 ---
 
 ## Representative Scenarios
+- Feature engineering and analytics workflows for governed AI systems
 - DLQ failure diagnosis and governed replay
 - Schema mismatch detection with validation loops
 - Controlled tool execution via MCP enforcement boundary

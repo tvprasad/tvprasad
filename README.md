@@ -106,8 +106,7 @@ system is built, not after.
 - **Microsoft:** Azure Cognitive Services
 - **Databricks:**  Fundamentals
 - **Databricks:** Platform Architecture
-- **Microsoft:** Fabric / Synapse
-- 
+- **Microsoft:** Fabric / Synapse 
  
 ---
 

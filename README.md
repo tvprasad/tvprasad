@@ -1,4 +1,5 @@
 # Prasad Thiriveedi
+**Governed Enterprise AI Execution Plance** | Bring governance to enterprise AI exection.
 
 I build governed AI, analytics, and data platforms that transform operational, telemetry, and workflow data into production decision-support systems, advanced analytics workflows, and enterprise AI applications.
 
@@ -17,7 +18,7 @@ Governed multi-agent compliance workflow built on Azure AI Foundry with grounded
 
 ---
 
-**[Meridian](https://github.com/tvprasad/meridian)** **[Live](https://products.vplsolutions.com)** — Goverened Enterprise AI execution plane.
+**[Meridian](https://github.com/tvprasad/meridian)** **[Live](https://products.vplsolutions.com)** — Goverened **Enterprise AI Execution Plane**.
 Includes telemetry analytics, retrieval quality monitoring, confidence scoring, structured evaluation workflows, and operational observability for production AI systems.
 Deterministic retrieval · Explicit refusal semantics · Citation validation · Structured telemetry
    

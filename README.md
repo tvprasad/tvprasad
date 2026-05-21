@@ -17,7 +17,7 @@ Governed multi-agent compliance workflow built on Azure AI Foundry with grounded
 
 ---
 
-**[Meridian](https://github.com/tvprasad/meridian)** **[Live](https://products.vplsolutions.com)** — Control plane for enterprise agent execution in regulated environments.
+**[Meridian](https://github.com/tvprasad/meridian)** **[Live](https://products.vplsolutions.com)** — Goverened Enterprise AI execution plane.
 Includes telemetry analytics, retrieval quality monitoring, confidence scoring, structured evaluation workflows, and operational observability for production AI systems.
 Deterministic retrieval · Explicit refusal semantics · Citation validation · Structured telemetry
    

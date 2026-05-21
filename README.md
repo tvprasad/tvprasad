@@ -1,5 +1,5 @@
 # Prasad Thiriveedi
-**Governed Enterprise AI Execution Plance** | Bring governance to enterprise AI exection.
+**Governed Enterprise AI Execution Plane** | Bring governance to enterprise AI exection.
 
 I build governed AI, analytics, and data platforms that transform operational, telemetry, and workflow data into production decision-support systems, advanced analytics workflows, and enterprise AI applications.
 
